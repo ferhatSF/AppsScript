@@ -1,4 +1,4 @@
-# App-Script
+# Apps Script Utilities
 
 Google Sheets Apps Scipt utilities. 
 
